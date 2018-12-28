@@ -1,0 +1,110 @@
+{
+    "Haircut services" : {
+        "0" : {
+            "name" :"Shampoo + Haircut + Hot Towel",
+            "price" : "$25.95",
+            "time" : "60"
+        },
+
+        "1" : {
+            "name" : "Long Layered Cut",
+            "price" : "$25.95",
+            "time" : "60"
+        },
+
+        "2" : {
+ 		    "name" : "Regular Haircut",
+		    "price" : "$22.95",
+            "time" : "60"
+		},
+
+        "3" : {
+ 		    "name" : "Fade + Hot Towel",
+		    "price" : "$22.95",
+            "time" : "60"
+		},
+
+        "4" : {
+ 		    "name" : "Children’s Haircut",
+		    "price" : "$19.95",
+            "time" : "60"
+		},
+
+        "5" : {
+ 		    "name" : "Senior Citizen Haircut + Hot Towel",
+		    "price" : "$19.95",
+            "time" : "60"
+		},
+
+        "6" : {
+ 		    "name" : "Crew Cut + Shape-Up",
+		    "price" : "$22.95",
+            "time" : "60"
+		},
+
+        "7" : {
+ 		    "name" : "Crew Cut + Hot Towel",
+		    "price" : "$19.95",
+            "time" : "60"
+		},
+
+        "default" : {
+            "name" : "not matched",
+            "price" : "$0.0",
+            "time" : "0"
+        }
+    },
+
+    "Razorblade services": {
+        "0" : {
+ 		    "name" : "Shave",
+		    "price" : "$24.95",
+            "time" : "40"
+		},
+
+        "1" : {
+ 		    "name" : "Beard Trim",
+		    "price" : "$11.95",
+            "time" : "40"
+		},
+
+        "2" : {
+ 		    "name" : "Beard Trim with Razor",
+		    "price" : "$12.95",
+            "time" : "40"
+		},
+
+        "3" : {
+ 		    "name" : "Clean-Up",
+		    "price" : "$11.95",
+            "time" : "40"
+		},
+
+        "4" : {
+ 		    "name" : "Goatee Beard",
+            "price" : "$8.95",
+            "time" : "40"
+		},
+
+        "default" : {
+            "name" : "not matched",
+            "price" : "$0.0",
+            "time" : "0"
+        }
+    },
+
+    "Color services": {
+        "0" : {
+ 		    "name" : "Color",
+		    "price" : "$45",
+            "time" : "120"
+		},
+
+        "default" : {
+            "name" : "not matched",
+            "price" : "$0.0",
+            "time" : "0"
+        }
+    }
+
+}
